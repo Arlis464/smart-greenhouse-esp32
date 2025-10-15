@@ -89,7 +89,7 @@ Servo position: 180°
 ## 📁 Project Structure
 
 ```
-Wokwi_Projet Serre/
+smart-greenhouse-esp32/
 ├── sketch.ino          # Main Arduino code
 ├── diagram.json        # Wokwi circuit diagram
 ├── libraries.txt       # Required libraries
