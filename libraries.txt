@@ -1,0 +1,10 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+DHT sensor library
+
+ESP32Servo
+ThingsBoard
+ArduinoMqttClient
+ArduinoHttpClient
+ArduinoJson
